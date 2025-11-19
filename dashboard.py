@@ -1,6 +1,5 @@
 # app.py
 import os
-import time
 import requests
 from bs4 import BeautifulSoup
 import pandas as pd
